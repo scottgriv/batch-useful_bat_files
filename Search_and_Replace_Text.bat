@@ -1,4 +1,4 @@
-:: Created by: Scott Grivner
+:: Author: Scott Grivner
 :: Website: scottgrivner.dev
 
 @echo off 
