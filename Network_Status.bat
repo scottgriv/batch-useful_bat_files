@@ -1,4 +1,4 @@
-:: Created by: Scott Grivner
+:: Author: Scott Grivner
 :: Website: scottgrivner.dev
 
 :: Place the IP or URL in the command below, change the path below to where you want your log file to be with the output.
