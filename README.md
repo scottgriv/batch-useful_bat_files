@@ -41,4 +41,4 @@ Send an email from a batch file via Powersell.
 **Author:** Scott Grivner <br>
 **Email:** scott.grivner@gmail.com <br>
 **Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
-**[Main Branch](https://github.com/scottgriv/batch-useful_bat_files)**
+**Reference:** [Main Branch](https://github.com/scottgriv/batch-useful_bat_files)
