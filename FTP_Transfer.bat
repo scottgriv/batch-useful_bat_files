@@ -1,4 +1,4 @@
-:: Created by: Scott Grivner
+:: Author: Scott Grivner
 :: Website: scottgrivner.dev
 
 open FTP sftp.your_ftp_server.com

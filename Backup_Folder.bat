@@ -1,4 +1,4 @@
-:: Created by: Scott Grivner
+:: Author: Scott Grivner
 :: Website: scottgrivner.dev
 
 SET archiveFolder="C:\File_Path\Your_Archive_Folder_Path\Your_Folder_%date:~-4,4%%date:~-10,2%%date:~7,2%"

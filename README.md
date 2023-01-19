@@ -5,10 +5,10 @@
 Backup a selected folder and create an archive folder with today's date appended to it.
 
 ## Check Website
-Create an Error Event Code in Windows Event Viewer.
+Check if an endpoint is reachable.
 
 ## Create Event Log
-Upload and move files using SMB protocol through a web interface without end user server access.
+Create an Error Event Code in Windows Event Viewer.
 
 ## Enable or Disable Scheduled Tasks
 Pass in a parameter (ENABLE or DISABLE) to Enable or Disable a Windows Scheduled Task.
@@ -38,7 +38,7 @@ Send an email from a batch file via Powersell.
 -----------
 
 ## Credit
-Created By **Scott Grivner**
-
-[Email](mailto:scott.grivner@gmail.com) • [Website](https://www.scottgrivner.dev) • [Main Branch](https://github.com/scottgriv/batch-useful_bat_files)
-
+**Author:** Scott Grivner <br>
+**Email:** scott.grivner@gmail.com <br>
+**Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/batch-useful_bat_files)
