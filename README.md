@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/scottgriv/batch-useful_bat_files" target="_blank">
-        <img src="./docs/images/icon.png" width="150" height="125"/>
+        <img src="./docs/images/icon.png" width="150" height="150"/>
     </a>
 </div>
 <br>
@@ -18,9 +18,14 @@
 
 <h1 align="center">Useful Batch Files</h1>
 
+This repository contains a collection of useful Batch Files that I have created over the years. <br>
+Batch files are text files that contain a series of commands to be executed by the command interpreter.
+
+---------------
+
 ## Table of Contents
 
-- [Useful Batch Files](#useful-batch-files)
+- [Getting Started](#getting-started)
     - [Backup Folder](#backup-folder)
     - [Check Website](#check-website)
     - [Create Event Log](#create-event-log)
@@ -36,75 +41,79 @@
 - [Resources](#resources)
 - [Credits](#credits)
 
-## Useful Batch Files
+## Getting Started
 
-Below are a list of useful batch files that I have created over the years; you can find them in the root directory of this repository.
+Each Batch File (located in the root of this repository) contains a description of what it does and how to use it. <br>
+
+Additionally, some of the Batch File contain a `:HELP` section that will display the description and usage when the Batch File is executed with the `/?` parameter.
+
+To run a Batch File, simply double-click on it using Windows Explorer or run it from the command line.
 
 > [!TIP] 
 > Use the following Batch Files with Windows Task Scheduler to create an automated process.
 
-## Backup Folder
+### Backup Folder
 
 Backup a selected folder and create an archive folder with today's date appended to it.
 
 > Backup_Folder.bat
 
-## Check Website
+### Check Website
 
 Check if an endpoint is reachable.
 
 > Check_Website.bat
 
-## Create Event Log
+### Create Event Log
 
 Create an Error Event Code in Windows Event Viewer.
 
 > Create_Event_Log.bat
 
-## Enable or Disable Scheduled Tasks
+### Enable or Disable Scheduled Tasks
 
 Pass in a parameter (ENABLE or DISABLE) to Enable or Disable a Windows Scheduled Task.
 
 > Enable_or_Disable_Scheduled_Tasks.bat
 
-## FTP Transfer
+### FTP Transfer
 
 Transfer files from a FTP Server to a Local file location.
 
 > FTP_Transfer.bat
 
-## Kill Running Program
+### Kill Running Program
 
 Kill a running task.
 
 > Kill_Running_Program.bat
 
-## Move Files (Inbound)
+### Move Files (Inbound)
 
 Move files from a Outbound Location/System to a Inbound Location/System using SMB protocol.
 
 > Move_Files_Inbound.bat
 
-## Move Files (Outbound)
+### Move Files (Outbound)
 
 Move files from an Inbound Location/System to an Outbound Location/System using SMB protocol.
 Additionally, this script will create an archive folder to archive the outbound files on a daily basis.
 
 > Move_Files_Outbound.bat
 
-## Network Status
+### Network Status
 
 Endlesslly ping an endpoint and record the network drops in a log file.
 
 > Network_Status.bat
 
-## Search and Replace Text
+### Search and Replace Text
 
 Search a file for a specific string and replace it with another string.
 
 > Search_and_Replace_Text.bat
 
-## Send Email
+### Send Email
 
 Send an email from a batch file via Powersell.
 
