@@ -28,17 +28,20 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 This file connects this repository to the **PRG** guideline and categorization system.
 - Include this file in your projects root folder for this repo to properly connect to your PRG system.
-- To include private repos (if configured to ignore private repos in the script) or an external project outside of GitHub, add them to the `categories/project_tier_table_private.md` table manually following the structure of the table.
+- Follow the instructions in the [PRG-Personal-Repository-Guidelines - Table Generator Guide](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/blob/main/categories/table_generator_guide.md) for more information on how to use the **PRG** system and **PRG Connection File (PRGCF)**.
 
 > [!CAUTION]
-> Lines 7-10 are mapped in the `scripts/project_tier_table.py` script to the PRG system. Do not move or change these lines without adjusting the script to account for this change.
+> Lines 15-18 above are mapped in the `scripts/project_tier_table_generator.py` script for the PRG system. Do not move or change these lines without adjusting the script to account for this change.
 
-## Visit the PRG Repository
+## Resources
 
-Visit the official [Personal Repository Guidelines (PRG)](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) repository for more details.
+- Visit the official [Personal Repository Guidelines (PRG)](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) repository for more details.
+- Visit an example of the [PRG Portfolio](https://prgportfolio.com) website to see how the **PRG** system can be used to create a portfolio of your projects.
+- Visit the [PRG Website](https://github.com/scottgriv/PRG-Website) repository to add your GitHub account name to the **PRG Showcase**.
+- Visit the official [PRG Website](https://prgoptimized.com) view the current **PRG Showcase**.
 
 <p align="center">
     <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
-        <img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="Optimized" width="138" height="51" />
+        <img src="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/raw/main/docs/images/prg_optimized.png" alt="PRG Repository" width="138" height="51" />
     </a>
-</p>  
+</p>
