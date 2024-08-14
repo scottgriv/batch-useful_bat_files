@@ -43,7 +43,7 @@ Batch files are text files that contain a series of commands to be executed by t
 
 ## Getting Started
 
-Each Batch File (located in the root of this repository) contains a description of what it does and how to use it. <br>
+Each Batch File (located in the [source](./source/) folder of this repository) contains a description of what it does and how to use it. <br>
 
 Additionally, some of the Batch File contain a `:HELP` section that will display the description and usage when the Batch File is executed with the `/?` parameter.
 
@@ -56,68 +56,68 @@ To run a Batch File, simply double-click on it using Windows Explorer or run it 
 
 Backup a selected folder and create an archive folder with today's date appended to it.
 
-> Backup_Folder.bat
+> [Backup_Folder.bat](./source/Backup_Folder.bat)
 
 ### Check Website
 
 Check if an endpoint is reachable.
 
-> Check_Website.bat
+> [Check_Website.bat](./source/Check_Website.bat)
 
 ### Create Event Log
 
 Create an Error Event Code in Windows Event Viewer.
 
-> Create_Event_Log.bat
+> [Create_Event_Log.bat](./source/Create_Event_Log.bat)
 
 ### Enable or Disable Scheduled Tasks
 
 Pass in a parameter (ENABLE or DISABLE) to Enable or Disable a Windows Scheduled Task.
 
-> Enable_or_Disable_Scheduled_Tasks.bat
+> [Enable_or_Disable_Scheduled_Tasks.bat](./source/Enable_or_Disable_Scheduled_Task.bat)
 
 ### FTP Transfer
 
 Transfer files from a FTP Server to a Local file location.
 
-> FTP_Transfer.bat
+> [FTP_Transfer.bat](./source/FTP_Transfer.bat)
 
 ### Kill Running Program
 
 Kill a running task.
 
-> Kill_Running_Program.bat
+> [Kill_Running_Program.bat](./source//Kill_Running_Program.bat)
 
 ### Move Files (Inbound)
 
 Move files from a Outbound Location/System to a Inbound Location/System using SMB protocol.
 
-> Move_Files_Inbound.bat
+> [Move_Files_Inbound.bat](./source/Move_Files_Inbound.bat)
 
 ### Move Files (Outbound)
 
 Move files from an Inbound Location/System to an Outbound Location/System using SMB protocol.
 Additionally, this script will create an archive folder to archive the outbound files on a daily basis.
 
-> Move_Files_Outbound.bat
+> [Move_Files_Outbound.bat](./source/Move_Files_Outbound.bat)
 
 ### Network Status
 
 Endlesslly ping an endpoint and record the network drops in a log file.
 
-> Network_Status.bat
+> [Network_Status.bat](./source/Network_Status.bat)
 
 ### Search and Replace Text
 
 Search a file for a specific string and replace it with another string.
 
-> Search_and_Replace_Text.bat
+> [Search_and_Replace_Text.bat](./source/Search_and_Replace_Text.bat)
 
 ### Send Email
 
 Send an email from a batch file via Powersell.
 
-> Send_Email.bat
+> [Send_Email.bat](./source/Send_Email.bat)
 
 ## Resources
 
@@ -127,9 +127,9 @@ Send an email from a batch file via Powersell.
 
 ## License
 
-This project is released under the terms of **The Unlicense**, which allows you to use, modify, and distribute the code as you see fit. 
-- [The Unlicense](https://choosealicense.com/licenses/unlicense/) removes traditional copyright restrictions, giving you the freedom to use the code in any way you choose.
-- For more details, see the [LICENSE](LICENSE) file in this repository.
+This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
+- The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
+- For more details, see the [LICENSE](LICENSE) file in this repository. in this repository.
 
 ## Credits
 
