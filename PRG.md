@@ -12,8 +12,8 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 ## Project Information
 
-**Repository Tier:** Bronze <br>
-**Technology:** Java <br>
+**Repository Tier:** Silver <br>
+**Technology:** Windows Batch <br>
 **Category:** Console Application <br>
 **Order:** 35 <br>
 
