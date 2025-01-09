@@ -38,7 +38,7 @@ This file connects this repository to the **PRG** guideline and categorization s
 - Visit the official [Personal Repository Guidelines (PRG)](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines) repository for more details.
 - Visit an example of the [PRG Portfolio](https://prgportfolio.com) website to see how the **PRG** system can be used to create a portfolio of your projects.
 - Visit the [PRG Website](https://github.com/scottgriv/PRG-Website) repository to add your GitHub account name to the **PRG Showcase**.
-- Visit the official [PRG Website](https://prgoptimized.com) view the current **PRG Showcase**.
+- Visit the official [PRG Website](https://prgoptimized.netlify.app) view the current **PRG Showcase**.
 
 <p align="center">
     <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
