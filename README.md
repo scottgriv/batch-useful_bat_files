@@ -18,8 +18,8 @@
 
 <h1 align="center">Useful Batch Files</h1>
 
-This repository contains a collection of useful Batch Files that I have created over the years. <br>
-Batch files are text files that contain a series of commands to be executed by the command interpreter.
+This repository contains a curated collection of useful batch files I’ve created over the years. <br>
+Batch files are plain text scripts that execute a series of commands through the Windows command interpreter.
 
 ---------------
 
