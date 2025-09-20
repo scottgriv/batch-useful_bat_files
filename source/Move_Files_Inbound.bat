@@ -1,5 +1,5 @@
 :: Author: Scott Grivner
-:: Website: scottgrivner.dev
+:: Website: linktr.ee/scottgriv
 
 :: Outbound Folder - FROM SYSTEM
 SET fromFolder=\\Folder_Path\outbound\*

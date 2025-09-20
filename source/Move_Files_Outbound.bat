@@ -1,5 +1,5 @@
 :: Author: Scott Grivner
-:: Website: scottgrivner.dev
+:: Website: linktr.ee/scottgriv
 
 :: Archive Folder - FROM SYSTEM /w TODAY'S DATE
 SET archiveFolder=E:\Your_Folder\outbound\archive\%date:~-4,4%-%date:~-10,2%-%date:~7,2%

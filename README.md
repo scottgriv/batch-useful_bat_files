@@ -135,13 +135,13 @@ This project is released under the terms of the **MIT License**, which permits u
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
-**Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
+**Website:** [linktr.ee/scottgriv](https://www.linktr.ee/scottgriv) <br>
 **Reference:** [Main Branch](https://github.com/scottgriv/batch-useful_bat_files) <br>
 
 ---------------
 
 <div align="center">
-    <a href="https://scottgrivner.dev" target="_blank">
+    <a href="https://linktr.ee/scottgriv" target="_blank">
         <img src="./docs/images/footer.png" width="100" height="100"/>
     </a>
 </div>

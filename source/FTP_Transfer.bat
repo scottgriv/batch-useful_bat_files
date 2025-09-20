@@ -1,5 +1,5 @@
 :: Author: Scott Grivner
-:: Website: scottgrivner.dev
+:: Website: linktr.ee/scottgriv
 
 open FTP sftp.your_ftp_server.com
 Username

@@ -1,5 +1,5 @@
 :: Author: Scott Grivner
-:: Website: scottgrivner.dev
+:: Website: linktr.ee/scottgriv
 
 @ECHO OFF
 IF "%~1"==" /?" GOTO HELP

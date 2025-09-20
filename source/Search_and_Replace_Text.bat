@@ -1,5 +1,5 @@
 :: Author: Scott Grivner
-:: Website: scottgrivner.dev
+:: Website: linktr.ee/scottgriv
 
 @echo off 
     setlocal enableextensions disabledelayedexpansion

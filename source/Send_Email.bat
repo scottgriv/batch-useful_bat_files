@@ -1,5 +1,5 @@
 :: Author: Scott Grivner
-:: Website: scottgrivner.dev
+:: Website: linktr.ee/scottgriv
 
 powershell -ExecutionPolicy ByPass -Command Send-MailMessage ^
     -SmtpServer smtp.your_domain.com ^
