@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Silver <br>
 **Technology:** Windows Batch <br>
 **Category:** Console Application <br>
-**Order:** 35 <br>
+**Order:** 20 <br>
 
 ## Parameters
 
