@@ -103,7 +103,7 @@ Additionally, this script will create an archive folder to archive the outbound 
 
 ### Network Status
 
-Endlesslly ping an endpoint and record the network drops in a log file.
+Endlessly ping an endpoint and record the network drops in a log file.
 
 > [Network_Status.bat](./source/Network_Status.bat)
 
@@ -115,9 +115,15 @@ Search a file for a specific string and replace it with another string.
 
 ### Send Email
 
-Send an email from a batch file via Powersell.
+Send an email from a batch file via PowerShell.
 
 > [Send_Email.bat](./source/Send_Email.bat)
+
+### Folder Watcher
+
+Watch a folder for CRUD changes and log them.
+
+> [Folder_Watcher.bat](./source/Folder_Watcher.bat)
 
 ## Resources
 
