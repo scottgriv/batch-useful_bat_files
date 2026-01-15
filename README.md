@@ -21,6 +21,11 @@
 This repository contains a curated collection of useful batch files I’ve created over the years. <br>
 Batch files are plain text scripts that execute a series of commands through the Windows command interpreter.
 
+Current Total Number of Batch Programs: **12** <br>
+
+> [!NOTE]
+> I plan to continue adding more useful batch files to this repository in the future as I create them to solve various tasks and challenges.
+
 ---------------
 
 ## Table of Contents
@@ -37,6 +42,7 @@ Batch files are plain text scripts that execute a series of commands through the
     - [Network Status](#network-status)
     - [Search and Replace Text](#search-and-replace-text)
     - [Send Email](#send-email)
+    - [Folder Watcher](#folder-watcher)
 - [License](#license)
 - [Resources](#resources)
 - [Credits](#credits)
@@ -97,13 +103,13 @@ Move files from a Outbound Location/System to a Inbound Location/System using SM
 ### Move Files (Outbound)
 
 Move files from an Inbound Location/System to an Outbound Location/System using SMB protocol.
-Additionally, this script will create an archive folder to archive the outbound files on a daily basis.
+*Additionally, this script will create an archive folder to archive the outbound files on a daily basis.*
 
 > [Move_Files_Outbound.bat](./source/Move_Files_Outbound.bat)
 
 ### Network Status
 
-Endlessly ping an endpoint and record the network drops in a log file.
+Endlessly ping an endpoint (Network IP Address) and record the network drops in a log file.
 
 > [Network_Status.bat](./source/Network_Status.bat)
 
