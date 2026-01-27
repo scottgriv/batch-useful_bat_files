@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/batch-useful_bat_files" target="_blank">
+    <a href="https://github.com/scottgriv/batch-file-toolbox" target="_blank">
         <img src="./docs/images/icon.png" width="150" height="150"/>
     </a>
 </div>
@@ -16,9 +16,9 @@
 
 ---------------
 
-<h1 align="center">Useful Batch Files</h1>
+<h1 align="center">Batch File Toolbox</h1>
 
-This repository contains a curated collection of useful batch files I’ve created over the years. <br>
+This repository contains a curated toolbox of useful batch files I’ve created over the years. <br>
 Batch files are plain text scripts that execute a series of commands through the Windows command interpreter.
 
 Current Total Number of Batch Programs: **12** <br>
@@ -148,7 +148,7 @@ This project is released under the terms of the **MIT License**, which permits u
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [linktr.ee/scottgriv](https://www.linktr.ee/scottgriv) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/batch-useful_bat_files) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/batch-file-toolbox) <br>
 
 ---------------
 
